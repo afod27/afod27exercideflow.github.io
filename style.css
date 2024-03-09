@@ -291,6 +291,8 @@ img {
 
   .box {
     flex: 1 0 17%;
+    max-width: 340px;
+    max-height: 340px;
     width: 20vw;
     height:20vw;
     background-color: #000000;
